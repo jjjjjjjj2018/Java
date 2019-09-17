@@ -1,0 +1,13 @@
+@Instance1	label1	1.5,2.2
+@Instance2	label1	1.8,3
+@Instance3	label1	2.1,2.9
+@Instance4	label2	10,9.4
+@Instance5	label2	10,9.5
+@Instance6	label2	11,9.1
+@Instance7	label3	5,7
+@Instance8	label3	11,2.5
+@Instance9	label3	7,12
+@Instance10	label4	6,10
+@Instance11	label4	4,5
+@Instance12	label4	6.7,6
+@Instance13	label4	10,12
